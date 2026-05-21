@@ -1,2 +1,1 @@
-debug=true
-theme=dark
+theme=blue
